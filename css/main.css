@@ -120,6 +120,7 @@ body {
 
 p span  {
   font-family: 'Lora', sans-serif;
+  font-size: 1.3em;
 }
 
 header,
@@ -134,6 +135,10 @@ header h1 {
   font-size: 3em;
 }
 
+header h1 span {
+  color: #fa0075;
+}
+
 main  {
   width: 100%;
   display: flex;
@@ -142,7 +147,7 @@ main  {
 }
 
 main p  {
-  font-size: 1.35em;
+  font-size: 1.25em;
 }
 
 .flex-items {
